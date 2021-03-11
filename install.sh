@@ -2,7 +2,7 @@
 
 #install stuff
 what=${PWD##*/}   
-what2=cinnamon
+what2=restart-cinnamon
 extension=.sh
 #peut être extension vide
 
